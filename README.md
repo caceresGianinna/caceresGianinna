@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Header](header.png)
 
-Hello, I'm Gianinna! A Software Engineer (Front-End) who is passionate about building software that solves challenging problems with simple solutions. I enjoy working with Angular, JavaScript, HTML, CSS, and Express. 
+*Hello, I'm Gianinna!* A Software Engineer (Front-End) who is passionate about building software that solves challenging problems with simple solutions. I enjoy working with Angular, JavaScript, HTML, CSS, and Express. 
 
 You can take a look at [My portfolio](https://caceresgianinna.github.io/portfolio2020/)
 
