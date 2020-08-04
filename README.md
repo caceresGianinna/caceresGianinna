@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 :woman_technologist:
 
 <!--
 **caceresGianinna/caceresGianinna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![Header](header.png)
 
-### I'm currently working on
+Hello, I'm Gianinna! A passionate Front-end developer, thirsty for knowledge who loves to create usable, performant web applications using HTML, CSS, Js, and Angular.
+[My portfolio](https://caceresgianinna.github.io/portfolio2020/)
+### :computer: I’m currently working on 
+- Angular
+- HTML
+- CSS
+- T-SQL
+- .NET
+- REST
 
-### I'm currently learning
+### 🌱 I’m currently learning
+- Python :snake:
+
+### 📫 How to reach me: 
+- [LinkedIn](https://www.linkedin.com/in/gicaceres/)
+
