@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 ![Header](header.png)
 
-Hello, I'm Gianinna! A passionate Front-end developer, thirsty for knowledge who loves to create usable, performant web applications using HTML, CSS, Js, and Angular.
-[My portfolio](https://caceresgianinna.github.io/portfolio2020/)
-### :computer: I’m currently working on 
+Hello, I'm Gianinna! A Software Engineer (Front-End) who is passionate about building software that solves challenging problems with simple solutions. I enjoy working with Angular, JavaScript, HTML, CSS, and Express. 
+
+You can take a look at [My portfolio](https://caceresgianinna.github.io/portfolio2020/)
+
+#### :computer: I’m currently working with: 
 - Angular
 - HTML
 - CSS
@@ -27,9 +29,17 @@ Hello, I'm Gianinna! A passionate Front-end developer, thirsty for knowledge who
 - .NET
 - REST
 
-### 🌱 I’m currently learning
+#### 🌱 I’m currently learning:
 - Python :snake:
+- Express
 
-### 📫 How to reach me: 
+#### I'm interested on learning:
+- Python
+- GraphQL
+
+#### 📫 How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/gicaceres/)
 
+#### :speech_balloon: I speak:
+- Español
+- English
