@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 You can take a look at [My portfolio](https://caceresgianinna.github.io/portfolio2020/)
 
-#### :computer: I’m currently working with: 
+#### :computer:  I’m currently working with: 
 - Angular
 - HTML
 - CSS
@@ -29,17 +29,17 @@ You can take a look at [My portfolio](https://caceresgianinna.github.io/portfoli
 - .NET
 - REST
 
-#### 🌱 I’m currently learning:
+#### 🌱  I’m currently learning:
 - Python :snake:
 - Express
 
-#### I'm interested on learning:
+#### :nerd_face: I'm interested on learning:
 - Python
 - GraphQL
 
-#### 📫 How to reach me: 
+#### 📫  How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/gicaceres/)
 
-#### :speech_balloon: I speak:
+#### :speech_balloon:  I speak:
 - Español
 - English
