@@ -30,10 +30,10 @@ You can take a look at [My portfolio](https://caceresgianinna.github.io/portfoli
 - REST
 
 #### 🌱  I’m currently learning:
-- Python :snake:
-- Express
+- React
 
 #### :nerd_face: I'm interested on learning:
+- React
 - Python
 - GraphQL
 
