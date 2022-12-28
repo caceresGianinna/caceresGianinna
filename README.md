@@ -17,23 +17,43 @@ Here are some ideas to get you started:
 
 ![Header](https://github.com/caceresGianinna/caceresGianinna/blob/master/header.png)
 
-*Hello, I'm Gianinna!* A Software Engineer (Front-End) who is passionate about building software that solves challenging problems with simple solutions. I enjoy working with Angular, JavaScript, HTML, CSS, and Express. 
+*Hello, I'm Gianinna!* A Software Engineer (Front-End) who is passionate about building software that solves challenging problems with simple solutions. My main tech-stack is JavaScript, HTML, CSS. 
 
-You can take a look at [My portfolio](https://caceresgianinna.github.io/portfolio2020/)
+You can take a look at personal projects I have done in [My portfolio](https://caceresgianinna.github.io/portfolio/)
 
 #### :computer:  I’m currently working with: 
-- Angular
-- HTML
+- Adobe Experience Manager (AEM)
+- Java
+- JavaScript
+- TypeScript
+- AlpineJs
+- Pub/sub DS pattern
+- HTML5
 - CSS
-- T-SQL
-- .NET
-- REST
+- A11y
+- Jest
+- Cypress
+- SonarQube
+- REST APIs
+- Cleave
+- Iodine
+- Web core vitals
+- Webpack
 
 #### 🌱  I’m currently learning:
 - React
+- Accessibility A11y
+
+#### 💬 Ask me about 
+- Unit testing with Jest, Jasmine
+- Cypress
+- JavaScript
+- HTML5
+- TypeScript
+
 
 #### :nerd_face: I'm interested on learning:
-- React
+- Swift UI
 - Python
 - GraphQL
 
@@ -43,3 +63,6 @@ You can take a look at [My portfolio](https://caceresgianinna.github.io/portfoli
 #### :speech_balloon:  I speak:
 - Español
 - English
+
+#### ⚡ Fun fact:
+INFJ MBTI 😅
