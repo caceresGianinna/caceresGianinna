@@ -23,7 +23,6 @@ You can take a look at personal projects I have done in [My portfolio](https://c
 
 #### :computer:  I’m currently working with: 
 - Adobe Experience Manager (AEM)
-- Java
 - JavaScript
 - TypeScript
 - AlpineJs
@@ -41,18 +40,17 @@ You can take a look at personal projects I have done in [My portfolio](https://c
 - Webpack
 
 #### 🌱  I’m currently learning:
-- React
-- Accessibility A11y
+- Web Accessibility A11y - How to create accessible components.
 
 #### 💬 Ask me about 
+- JavaScript
 - Unit testing with Jest, Jasmine
 - Cypress
-- JavaScript
 - HTML5
 - TypeScript
 
 
-#### :nerd_face: I'm interested on learning:
+#### :nerd_face: I'm interested in learning:
 - Swift UI
 - Python
 - GraphQL
@@ -65,4 +63,5 @@ You can take a look at personal projects I have done in [My portfolio](https://c
 - English
 
 #### ⚡ Fun fact:
-INFJ MBTI 😅
+- INFJ MBTI 😅
+- Learning Arabic 🥅
