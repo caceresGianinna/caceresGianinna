@@ -32,15 +32,11 @@ You can take a look at personal projects I have done in [My portfolio](https://c
 - A11y
 - Jest
 - Cypress
-- SonarQube
-- REST APIs
-- Cleave
-- Iodine
-- Web core vitals
-- Webpack
+
 
 #### 🌱  I’m currently learning:
 - Web Accessibility A11y - How to create accessible components.
+- Software Design patterns (JavaScript) 
 
 #### 💬 Ask me about 
 - JavaScript
@@ -51,7 +47,7 @@ You can take a look at personal projects I have done in [My portfolio](https://c
 
 
 #### :nerd_face: I'm interested in learning:
-- Swift UI
+- Swift UI / Mobile development
 - Python
 - GraphQL
 
@@ -63,5 +59,6 @@ You can take a look at personal projects I have done in [My portfolio](https://c
 - English
 
 #### ⚡ Fun fact:
+- I also create art inspired by my homeland 🇵🇦 and Latin America Culture 
 - INFJ MBTI 😅
 - Learning Arabic 🥅
