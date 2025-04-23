@@ -48,7 +48,7 @@ You can take a look at personal projects I have done in [My portfolio](https://c
 
 #### :nerd_face: I'm interested in learning:
 - Swift UI / Mobile development
-- Python
+- Interaction Design
 - GraphQL
 
 #### 📫  How to reach me: 
@@ -59,6 +59,7 @@ You can take a look at personal projects I have done in [My portfolio](https://c
 - English
 
 #### ⚡ Fun fact:
-- I also create art inspired by my homeland 🇵🇦 and Latin America Culture 
+- I also create art inspired by my homeland, Panama 🇵🇦, and Latin America Culture 
 - INFJ MBTI 😅
 - Learning Arabic 🥅
+- 50% 🇵🇦 50% 🇮🇹 but 100% 🇵🇦
