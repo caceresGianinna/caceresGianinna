@@ -26,12 +26,10 @@ You can take a look at personal projects I have done in [My portfolio](https://c
 - JavaScript
 - TypeScript
 - AlpineJs
-- Pub/sub DS pattern
 - HTML5
 - CSS
 - A11y
 - Jest
-- Cypress
 
 
 #### 🌱  I’m currently learning:
@@ -49,7 +47,7 @@ You can take a look at personal projects I have done in [My portfolio](https://c
 #### :nerd_face: I'm interested in learning:
 - Swift UI / Mobile development
 - Interaction Design
-- GraphQL
+- A11y
 
 #### 📫  How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/gicaceres/)
@@ -62,4 +60,3 @@ You can take a look at personal projects I have done in [My portfolio](https://c
 - I also create art inspired by my homeland, Panama 🇵🇦, and Latin America Culture 
 - INFJ MBTI 😅
 - Learning Arabic 🥅
-- 50% 🇵🇦 50% 🇮🇹 but 100% 🇵🇦
